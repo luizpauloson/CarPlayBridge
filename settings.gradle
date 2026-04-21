@@ -1,0 +1,2 @@
+rootProject.name = "CarPlayBridge"
+include ':app'
